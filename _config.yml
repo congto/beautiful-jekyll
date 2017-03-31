@@ -26,10 +26,10 @@ description: Blog cá nhân - Công TÔ
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+    - Học Chủ  Động GIT: "https://github.com/hocchudong"
+    - Vietmolo: "https://github.com/vietmolo"
+    - VietStack: "https://github.com/vietstacker"
+  My groups: "https://hocchudong"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -44,7 +44,7 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Cong TO
+  name: Công TÔ
   email: "tcvn1985@gmail.com"
   facebook: tcvn1985  # eg. daattali
   github: congto    # eg. daattali
@@ -113,7 +113,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "/Vancouver"
+timezone: "Asia/Ho_Chi_Minh"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
